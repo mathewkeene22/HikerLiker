@@ -1,1 +1,17 @@
 @import 'bootstrap';
+
+body {
+  background: url(https://i.pinimg.com/originals/10/e0/c6/10e0c63e41122f493be23397874b6273.jpg) no-repeat;
+  background-size: 100%;
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.57);
+  padding: 1em;
+  border-radius: .3em;
+  margin-top: 2em;
+}
+
+.form-control {
+	max-height: 38px;
+}
