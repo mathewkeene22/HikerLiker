@@ -55,5 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Added
 gem 'bootstrap', '~> 4.0.0.alpha6'
-gem "react-rails"
+gem 'react-rails'
+# Use jquery as the JavaScript library
+gem 'jquery-rails'
 

@@ -27,7 +27,7 @@
           className: 'form-control'
           placeholder: 'name'
           name: 'name'
-          value: @state.date
+          value: @state.name
           onChange: @handleValueChange
         React.DOM.input
           type: 'date'

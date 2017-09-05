@@ -11,6 +11,7 @@ class HikesController < ApplicationController
 		else
 			render json: @hike.errors, status: unprocessable_entity
 		end
+	end
 
 	private
 
